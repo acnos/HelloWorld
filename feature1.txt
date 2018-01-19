@@ -1,3 +1,5 @@
 This is the first feature.
 
 Dev2 edits this file.
+
+Dev2 makes more edits to feature 1.
